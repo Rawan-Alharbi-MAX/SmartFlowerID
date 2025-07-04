@@ -34,6 +34,7 @@
 Class: زهرة الليلك العنكبوتي الأصفر
 Confidence Score: 0.99999094
 
+<img width="957" alt="output" src="https://github.com/user-attachments/assets/b8f70218-477e-4dbb-a488-ebeeedcd993d" />
 
 ## ✅ طريقة التشغيل
 
